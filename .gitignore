@@ -3,3 +3,14 @@
 ################################################################################
 
 /DynamicObj/bin/Debug
+/DynamicObj/obj/Debug
+/DynamicObj.Business/bin/Debug
+/DynamicObj.Business/obj/Debug
+/DynamicObj.DAL/bin/Debug
+/DynamicObj.DAL/obj/Debug
+/DynamicObj.Test/bin/Debug
+/DynamicObj.Test/obj/Debug
+/DynamicObj.WebSite/bin
+/DynamicObj.WebSite/obj/Debug
+/.vs/DynamicObj/v15
+/packages
